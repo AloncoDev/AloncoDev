@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
-<br><br>
-
 <h2>
   <img src="https://cdn-icons-png.flaticon.com/512/3171/3171065.png" width="19"/>
   <em> ABOUT </em>
