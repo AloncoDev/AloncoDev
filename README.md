@@ -57,5 +57,5 @@ for creating things that are meaningful and impactful.
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=isaacalonco&theme=dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=AloncoDev&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
