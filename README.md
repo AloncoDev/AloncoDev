@@ -20,7 +20,7 @@
   <img src="./assets/icons/nodejs.svg" height="44" alt="Node.js" title="Node.js" />
   <img src="./assets/icons/java.svg" height="44" alt="Java" title="Java" />
   <img src="./assets/icons/postgresql.svg" height="44" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="./assets/icons/supabase.svg" height="44" alt="Supabase" title="Supabase" />
+  <img src="./assets/icons/aws.svg" height="44" alt="AWS" title="AWS" />
   <img src="./assets/icons/n8n.svg" height="44" alt="n8n" title="n8n" />
 </p>
 
