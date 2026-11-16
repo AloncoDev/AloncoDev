@@ -2,12 +2,20 @@
   <img src="./assets/banner.gif" alt="iDroid personnel file — Isaac Alonço, full-stack · front-end" width="100%" />
 </p>
 
-<p align="center">
-  <img src="./assets/personnel.svg" width="100%" alt="Personnel file — Isaac Alonço (AloncoDev). Full-stack developer with my heart in front-end. Studying Computer Science and Information Security. I build websites, web systems and automations. Off duty: game dev, drawing and gaming. Always some music on, from pagode to metal." />
-</p>
+<h2 align="center"><em>PERSONNEL FILE</em></h2>
 
 <p align="center">
-  <img src="./assets/loadout.svg" width="100%" alt="Loadout — Front-end: React, Next.js, TypeScript, GSAP. Back-end: Node.js, Java, PostgreSQL, Supabase. Automation: n8n." />
+  <b>Isaac Alonço</b> — full-stack developer focused on front-end.<br />
+  I build websites, web systems and automations.<br />
+  Studying Computer Science and Information Security.
+</p>
+
+<h2 align="center"><em>LOADOUT</em></h2>
+
+<p align="center">
+  <b>Front-end</b> &nbsp;·&nbsp; React · Next.js · TypeScript · GSAP<br />
+  <b>Back-end</b> &nbsp;·&nbsp; Node.js · Java · PostgreSQL · Supabase<br />
+  <b>Automation</b> &nbsp;·&nbsp; n8n
 </p>
 
 <h2 align="center"><em>COMMS</em></h2>
