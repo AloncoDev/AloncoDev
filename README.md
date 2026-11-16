@@ -2,16 +2,8 @@
   <img src="./assets/banner.gif" alt="iDroid personnel file — Isaac Alonço, full-stack · front-end" width="100%" />
 </p>
 
-<h2 align="center"><em>PERSONNEL FILE</em></h2>
-
 <p align="center">
-  <img src="./assets/foxhound.png" width="56" alt="FOXHOUND" />
-</p>
-
-<p align="center">
-  <b>Isaac Alonço</b> — full-stack developer with my heart in front-end.<br />
-  Studying <b>Computer Science</b> and <b>Information Security</b>. I build websites, web systems and automations.<br />
-  Off duty: game dev, drawing and gaming. Always some music on, from pagode to metal.
+  <img src="./assets/personnel.svg" width="100%" alt="Personnel file — Isaac Alonço (AloncoDev). Full-stack developer with my heart in front-end. Studying Computer Science and Information Security. I build websites, web systems and automations. Off duty: game dev, drawing and gaming. Always some music on, from pagode to metal." />
 </p>
 
 <h2 align="center"><em>LOADOUT</em></h2>
