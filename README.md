@@ -12,25 +12,16 @@
 
 <h2 align="center"><em>LOADOUT</em></h2>
 
-<p align="center"><b>Front-end</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript" />
-  <img src="./assets/icons/gsap.svg" height="40" alt="GSAP" title="GSAP" />
-</p>
-
-<p align="center"><b>Back-end</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" title="Supabase" />
-</p>
-
-<p align="center"><b>Automation</b></p>
-<p align="center">
-  <img src="./assets/icons/n8n.svg" height="40" alt="n8n" title="n8n" />
+  <img src="./assets/icons/react.svg" height="44" alt="React" title="React" />
+  <img src="./assets/icons/nextjs.svg" height="44" alt="Next.js" title="Next.js" />
+  <img src="./assets/icons/typescript.svg" height="44" alt="TypeScript" title="TypeScript" />
+  <img src="./assets/icons/gsap.svg" height="44" alt="GSAP" title="GSAP" />
+  <img src="./assets/icons/nodejs.svg" height="44" alt="Node.js" title="Node.js" />
+  <img src="./assets/icons/java.svg" height="44" alt="Java" title="Java" />
+  <img src="./assets/icons/postgresql.svg" height="44" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="./assets/icons/supabase.svg" height="44" alt="Supabase" title="Supabase" />
+  <img src="./assets/icons/n8n.svg" height="44" alt="n8n" title="n8n" />
 </p>
 
 <h2 align="center"><em>COMMS</em></h2>
