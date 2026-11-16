@@ -1,21 +1,36 @@
 <p align="center">
-  <img src="./assets/banner.gif" alt="iDroid personnel file — Isaac Alonço, full-stack · front-end" width="100%" />
+  <img src="./assets/banner.gif" alt="iDroid personnel file: Isaac Alonço, full-stack and front-end developer" width="100%" />
 </p>
 
 <h2 align="center"><em>PERSONNEL FILE</em></h2>
 
 <p align="center">
-  <b>Isaac Alonço</b> — full-stack developer focused on front-end.<br />
+  <b>Isaac Alonço</b>, full-stack developer focused on front-end.<br />
   I build websites, web systems and automations.<br />
   Studying Computer Science and Information Security.
 </p>
 
 <h2 align="center"><em>LOADOUT</em></h2>
 
+<p align="center"><b>Front-end</b></p>
 <p align="center">
-  <b>Front-end</b> &nbsp;·&nbsp; React · Next.js · TypeScript · GSAP<br />
-  <b>Back-end</b> &nbsp;·&nbsp; Node.js · Java · PostgreSQL · Supabase<br />
-  <b>Automation</b> &nbsp;·&nbsp; n8n
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="./assets/icons/gsap.svg" height="40" alt="GSAP" title="GSAP" />
+</p>
+
+<p align="center"><b>Back-end</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" title="Supabase" />
+</p>
+
+<p align="center"><b>Automation</b></p>
+<p align="center">
+  <img src="./assets/icons/n8n.svg" height="40" alt="n8n" title="n8n" />
 </p>
 
 <h2 align="center"><em>COMMS</em></h2>
